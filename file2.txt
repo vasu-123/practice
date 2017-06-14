@@ -1,3 +1,0 @@
-File 2
-Second line in file 2
-Third line file 2
